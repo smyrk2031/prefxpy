@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- 保守方針・計画を `docs/保守.md` に追加（機能追加しない前提の運用）。
+
 ## 0.1.3
 
 - ライセンス表記を整備（`THIRD_PARTY_NOTICES.md` 追加、README からリンク）。

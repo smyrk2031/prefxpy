@@ -66,7 +66,7 @@ Publishing to TestPyPI / PyPI: [`docs/PYPI.md`](docs/PYPI.md).
 
 | Language | Topic |
 |----------|-------|
-| 日本語 | [仕様](docs/仕様.md) · [設計](docs/設計.md) |
+| 日本語 | [仕様](docs/仕様.md) · [設計](docs/設計.md) · [保守](docs/保守.md) |
 | English | This README · [Project site](https://smyrk2031.github.io/prefxpy/) |
 
 ## License
